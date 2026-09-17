@@ -12,8 +12,8 @@
 
 ## 🚀 Live Demo & Links
 
-- **Live Preview:** 
-- **GitHub Repository:** 
+- **Live Preview:** https://movie-explorer-od.vercel.app/
+- **GitHub Repository:** https://github.com/orjodasutshab/MovieExplorer.od.git
 
 ---
 
